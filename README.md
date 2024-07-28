@@ -1,0 +1,1 @@
+Este é repositorio criado para entregar a atividade do modulo de formação html que estou realizando pela DIO, apesar de usar apenas o conteudo de teor basico acredito ser valido pela rica teoria aplicada o que me faz pular nenhum tipo de atividade proposta.
